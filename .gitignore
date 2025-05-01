@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.metadata_never_index
+.apdisk
+
+# VS Code settings (optional)
+.vscode/
+
+# Ignore everything in the input/ directory
+input/*
+
